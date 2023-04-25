@@ -2,6 +2,10 @@ return {
   {
     'Mofiqul/vscode.nvim',
   },
+  {
+    'nvim-lua/plenary.nvim'
+  },
+  'ThePrimeagen/harpoon'
   -- You can also add new plugins here as well:
   -- Add plugins, the lazy syntax
   -- "andweeb/presence.nvim",
